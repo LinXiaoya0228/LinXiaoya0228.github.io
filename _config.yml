@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xiaoya Lin (林小雅)"
-description              : "Focusing on video and speech large generation model."
+description              : "Focusing on generative modeling for visual forensics, adversarial robustness, and intelligent image restoration."
 repository               : "0228lin/0228lin.github.io"
 #google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ repository               : "0228lin/0228lin.github.io"
 # Site Author
 author:
   name             : "Xiaoya Lin (林小雅)"
-  avatar           : "images/ry_profile.jpeg"
+  avatar           : "images/Profile_image.jpg"
   bio              : ""
   location         : "Singapore"
   employer         :
