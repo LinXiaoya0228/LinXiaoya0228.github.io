@@ -1,9 +1,8 @@
 # 🔬 Research Projects
 
-### **URECA Project – AlzCare Smart Watch** *(Aug 2024 – Present)*  
-- Leading AI wearable development for dementia care  
-- Implementing behavioral monitoring, geofencing, and fall detection models  
-- Engaging with SG Jamiyah & SG DementiaHub for user-centered validation
+### **URECA Project – AlzCare Smart Watch** *(Aug 2024 – May 2025)*  
+- Spearheaded a team in the conceptual design and prototyping of an AI-powered wearable device for dementia patients, with features for real-time health monitoring, fall detection, and geofencing.
+- Collaborated with SG Jamiyah Nursing Home to define project requirements and evaluate initial design concepts, gaining experience in translating real-world needs into a technical solution.
 
 ### **Hotel Booking Trends & Cancellation Forecasting** *(Feb 2024 – Apr 2024)*  
 - Applied ensemble ML models to Kaggle data  
