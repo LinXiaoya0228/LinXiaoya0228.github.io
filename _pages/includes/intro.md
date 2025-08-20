@@ -1,4 +1,4 @@
-Hi, I'm **Xiaoya Lin(林小雅)**, an aspiring researcher currently pursuing my Bachelor of Electrical and Electronic Engineering (Year 3) at [Nanyang Technological University](https://www.ntu.edu.sg/). My research interest centers around **Deepfake Detection** and **Diffusion Model in Image Restoration**.  
+Hi, I'm **Xiaoya Lin(林小雅)**, an aspiring researcher currently pursuing my Bachelor of Electrical and Electronic Engineering (Year 3) at [Nanyang Technological University](https://www.ntu.edu.sg/). My research interest centers around **Adversarial Robustness & Deepfake Detection** and **Diffusion Model in Image Restoration**.  
 
 You can find my CV here: [LinXiaoya's Curriculum Vitae](../../assets/LinXiaoya_Resume_Research.pdf).
 
