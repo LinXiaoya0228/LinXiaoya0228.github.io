@@ -11,8 +11,8 @@
 
 **Project 2: Trace-to-Image Machine Learning Pipeline**  
 - Conducted a literature survey and pilot study on **time-series-to-image** conversion and **visual classification** for semiconductor trace data.  
-- Developed a multi-phase pipeline converting segmented traces into images (e.g., **Gramian Angular Fields**, line charts), followed by **RNN baseline model** training and hyperparameter tuning using **Optuna** and **Keras-Tuner**.  
-- Delivered a reproducible ML pipeline with **≥5% accuracy improvement**, validated through internal presentations and journal deliverables.
+- Developed a novel trace-to-image machine learning pipeline, converting raw process data into image representations (e.g., **Gramian Angular Fields**, line charts) to address limitations in traditional Fault Detection and Classification (FDC) methods.
+- Achieved baseline model accuracies of **97.0%**, **97.0%**, and **94.6%** across three distinct tool types, outperforming the conventional guard band method by **19.3%**.
 
 
 ### **A*STAR**  
