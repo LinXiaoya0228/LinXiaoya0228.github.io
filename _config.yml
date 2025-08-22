@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Xiaoya Lin (林小雅)"
-description              : "Focusing on adversarial robustness & deepfake detection, and diffusion model in image restoration."
-repository               : "0228lin/0228lin.github.io"
+description              : "Focusing on diffusion model in image restoration."
+repository               : "LinXiaoya0228/LinXiaoya0228.github.io"
 #google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "0228lin"
+  github           : "LinXiaoya0228"
   google_plus      :
   keybase          :
   instagram        :
