@@ -2,4 +2,4 @@ Hi, I'm **Xiaoya Lin(林小雅)**, an aspiring researcher currently pursuing my 
 
 You can find my CV here: [LinXiaoya's Curriculum Vitae](../../assets/LinXiaoya_Resume_Research.pdf).
 
-[Email](mailto:LINX0070@e.ntu.edu.sg) / [Github](https://github.com/0228lin) / [LinkedIn](https://www.linkedin.com/in/xiaoya-lin/) / [Wechat](../../images/wechat.png)
+[Email](mailto:LINX0070@e.ntu.edu.sg) / [Github](https://github.com/LinXiaoya0228) / [LinkedIn](https://www.linkedin.com/in/xiaoya-lin/) / [Wechat](../../images/wechat.png)
