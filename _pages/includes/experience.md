@@ -12,7 +12,9 @@
 **Project 2: Trace-to-Image Machine Learning Pipeline**  
 - Conducted a literature survey and pilot study on **time-series-to-image** conversion and **visual classification** for semiconductor trace data.  
 - Developed a novel trace-to-image machine learning pipeline, converting raw process data into image representations (e.g., **Gramian Angular Fields**, line charts) to address limitations in traditional Fault Detection and Classification (FDC) methods.
-- Achieved baseline model accuracies of **97.0%**, **97.0%**, and **94.6%** across three distinct tool types, outperforming the conventional guard band method by **19.3%**.
+- Built a supervised CNN model that achieved baseline accuracies of 97.0%, 97.0%, and 94.6% across three distinct tool types, outperforming the conventional guard band method by 19.3%.
+- Designed and implemented one-class anomaly detection models for broad, unsupervised anomaly detection, laying the groundwork for a hybrid system.
+
 
 
 ### **A*STAR**  
