@@ -4,5 +4,6 @@
 - **Data Science Tools:** Pandas, NumPy, Scikit-learn, TensorFlow, XGBoost  
 - **Cloud & Big Data:** AWS S3, Boto3, Sagemaker, PySpark  
 - **Databases:** MySQL, MongoDB, NoSQL  
-- **Software & Tools:** Jupyter Lab, Figma  
+- **Software & Tools:** Jupyter Lab, Figma, Tableau  
 - **Certifications:** Bloomberg Market Concepts, Coursera ML & Python modules
+- **Languages:** Fluent in English & Mandarin, Basic French
