@@ -1,5 +1,17 @@
 # 💼 Research & Work Experience
 
+
+### **[Shenzhen InnoX Academy](https://en.innoxsz.com) – Market Data Analyst Intern**  
+*Dec 2025 – Feb 2026 | Hybrid* 
+
+- Supported a startup’s **global expansion** by integrating market insights with business strategy.
+- Conducted **competitive monitoring**, user behavior tracking, and sentiment analysis; produced data reports.
+- Used **BI tools (Tableau) and Excel** for data visualization and pivot analysis to support decision-making.
+- Led **industry research and persona profiling** through expert interviews and secondary data.
+- Collaborated cross-functionally with **product, ops, and marketing teams** to translate analytics into actionable strategies.
+- Supported the startup team in participating **CES 2026 (Los Angeles)**, contributing to product showcase strategy and market engagement planning.
+
+
 ### **[GlobalFoundries](https://gf.com/) - Data Scientist Intern**   
 *May 2025 – Dec 2025 | Singapore*  
 **Research Focus: Intelligent Data Engineering for Scalable Analysis and Visual ML**
@@ -28,3 +40,4 @@
 *Jun 2024 – Dec 2024 | Hybrid*  
 - Developed and delivered bilingual lectures on core ML algorithms and SQL  
 - Designed course content that contributed **SGD 10,000+ revenue growth**
+
