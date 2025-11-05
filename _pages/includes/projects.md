@@ -5,9 +5,10 @@
 - Collaborated with SG Jamiyah Nursing Home to define project requirements and evaluate initial design concepts, gaining experience in translating real-world needs into a technical solution.
 
 ### **Hotel Booking Trends & Cancellation Forecasting** *(Feb 2024 – Apr 2024)*  
-- Applied ensemble ML models to Kaggle data  
-- Achieved **91% accuracy** via TensorFlow neural network optimization  
-- Delivered business insights through structured analytics and visualization
+- Led a 4-member team to analyze booking behavior using **TensorFlow, L2 regularization, Batch Normalization**.
+- Achieved **91% accuracy** in cancellation prediction  
+- Delivered insights to 50+ peers and instructors through visual storytelling and model documentation.  
+
 
 ### **EV Transition Database Analysis** *(Aug 2023 – Nov 2023)*  
 - Used MySQL & MongoDB to assess EV infrastructure in Singapore  
