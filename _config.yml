@@ -6,9 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaoya Lin (林小雅)"
-description              : "Focusing on diffusion model in image restoration."
-repository               : "LinXiaoya0228/LinXiaoya0228.github.io"
+title: "Xiaoya Lin (林小雅)"
+description: "Lin Xiaoya – NTU EEE student focused on diffusion models, image restoration, and privacy-preserving AI."
+repository: "LinXiaoya0228/LinXiaoya0228.github.io"
+# ... (rest of your file) ...
 google_scholar_stats_use_cdn : true
 
 # google analytics
