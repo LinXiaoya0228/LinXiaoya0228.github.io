@@ -1,8 +1,13 @@
-<!-- begin SEO -->
 {% assign seo_url = site.url | default: site.github.url %}
 {% assign canonical_url = page.url | replace: "index.html", "" | prepend: seo_url %}
 
-<title>Lin Xiaoya – NTU EEE | Diffusion Models</title>
+{% if page.title %}
+  {% assign seo_title = page.title | append: " | " | append: site.title %}
+{% else %}
+  {% assign seo_title = "Lin Xiaoya – NTU EEE | Diffusion Models" %}
+{% endif %}
+
+<title>{{ seo_title }}</title>
 
 {% assign seo_description = page.description | default: page.excerpt | default: site.description %}
 {% assign seo_description = seo_description | markdownify | strip_html | strip_newlines | escape_once %}
@@ -10,28 +15,24 @@
 {% assign seo_author = page.author | default: site.author.name %}
 {% assign seo_author_twitter = site.twitter | replace: "@", "" %}
 
-<!-- Meta Tags -->
-<meta name="description" content="Lin Xiaoya – NTU EEE student focused on diffusion models, image restoration, and privacy-preserving AI.">
+<meta name="description" content="{{ seo_description }}">
 <meta name="keywords" content="Lin Xiaoya, NTU, NTU EEE, machine learning, diffusion models, image restoration, privacy-preserving AI, academic homepage, ICUR, URECA, rPPG, healthcare AI">
-<meta name="author" content="Lin Xiaoya">
+<meta name="author" content="{{ seo_author | default: 'Lin Xiaoya' }}">
 
-<!-- Open Graph -->
 <meta property="og:locale" content="en">
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="Lin Xiaoya – NTU EEE | Diffusion Models">
+<meta property="og:title" content="{{ seo_title }}">
 <meta property="og:description" content="{{ seo_description }}">
 <meta property="og:url" content="{{ canonical_url }}">
 
-<!-- Twitter Card -->
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="Lin Xiaoya – NTU EEE | Diffusion Models">
+<meta name="twitter:title" content="{{ seo_title }}">
 <meta name="twitter:description" content="{{ seo_description }}">
 <meta name="twitter:url" content="{{ canonical_url }}">
 {% if seo_author_twitter %}
   <meta name="twitter:creator" content="@{{ seo_author_twitter }}">
 {% endif %}
 
-<!-- Search Engine Verification -->
 {% if site.google_site_verification %}
   <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
 {% endif %}
@@ -41,5 +42,3 @@
 {% if site.baidu_site_verification %}
   <meta name="baidu-site-verification" content="{{ site.baidu_site_verification }}" />
 {% endif %}
-<!-- end SEO -->
-
