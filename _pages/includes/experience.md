@@ -16,19 +16,16 @@
 *May 2025 – Dec 2025 | Singapore*  
 **Research Focus: Intelligent Data Engineering for Scalable Analysis and Visual ML**
 
-**Project 1: Scalable Trace Data Pipeline & Compression for Semiconductor Analytics**  
-- Designed and deployed a modular pipeline using **AWS S3**, **PySpark**, **Parquet** and **Snappy** to process multi-month trace data across tools.  
-- Enabled **multi-tool, multi-month analysis** with schema alignment and long-to-wide transformation, reducing extraction time from **hours to 4–8 minutes**. 
+**Project 1: [Scalable Trace Data Pipeline & Compression for Semiconductor Analytics](https://github.com/LinXiaoya0228/FDCDataExtractor)**  
+- Designed and deployed a modular **ETL pipeline** using **AWS S3**, **PySpark**, **Parquet** and **Snappy** to process multi-month trace data across tools.  
+- Enabled **multi-tool, multi-month analysis** with schema alignment and long-to-wide transformation, reducing extraction time by **97%**. 
 - Achieved **90% storage reduction**, eliminated memory crashes, and unlocked parameter-level filtering for engineers.
 
-**Project 2: Hybrid Fault Detection via Trace-to-Image Machine Learning Model**  
+**Project 2: [Hybrid Fault Detection via Trace-to-Image Machine Learning Model](https://github.com/LinXiaoya0228/semiconductor-fault-detection)**  
 - Developed a **two-stage Guard-band + OC-SVM architecture** for unsupervised fault detection in semiconductor manufacturing. 
 - Converted time-series traces into **Gramian Angular Field (GAF)** images for ML-based classification.
 - Addressed training contamination and subtle anomaly detection through statistical filtering and image-based encoding. 
 - Achieved **95.05% accuracy, 0.89 recall,** and **1.00 precision (0 False Alarm)**, outperforming traditional guard-band SPC methods by **14%**.
-
-
-
 
 ### **[A*STAR](https://www.a-star.edu.sg/) - Healthcare Data Pre-Processing Research Intern**  
 *Jan 2025 – Apr 2025 | Singapore*  
