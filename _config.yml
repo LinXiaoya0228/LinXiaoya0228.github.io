@@ -14,6 +14,7 @@ bing_site_verification   : 6FC1E800EEE20055B3668C0D1D06DA38
 
 
 # Author Information (Sidebar Display)
+
 author:
   name: "Lin Xiaoya (林小雅)"
   avatar: images/Profile.jpg
@@ -30,7 +31,7 @@ author:
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/xiaoya-lin/"
       icon: "fab fa-linkedin"
-
+      
 # Footer Settings
 footer_show_references: false
 
