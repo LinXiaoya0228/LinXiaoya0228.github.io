@@ -6,7 +6,7 @@ My research interest centers around **Adversarial Robustness & Deepfake Detectio
 
 I am an incoming Exchange Student at **EPFL (Switzerland)** for Spring 2026.
 
-You can find my CV here: [LinXiaoya's Curriculum Vitae](../../assets/LinXiaoya_Curriculum_Vitae.pdf).
+You can find my CV here: [LinXiaoya's Curriculum Vitae](../../assets/LinXiaoya_Resume_Research.pdf).
 
 <p>
   <a href="mailto:linx0070@e.ntu.edu.sg">Email</a> /
