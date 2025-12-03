@@ -20,7 +20,7 @@
       <p><em>Presented at the <strong>International Conference of Undergraduate Research (ICUR) 2025</strong></em></p>
     </td>
     <td style="border: none; width: 40%; vertical-align: top;">
-      <img src="../../images/AlzCare-demo.gif" alt="AlzCare Demo" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <img src="../../images/AlzCare_demo.gif" alt="AlzCare Demo" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     </td>
   </tr>
 </table>
