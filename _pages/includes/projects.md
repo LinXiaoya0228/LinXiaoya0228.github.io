@@ -19,7 +19,7 @@
       <a href="https://youtu.be/cTcKATnbVJQ" target="_blank" title="Click to Watch Demo">
         <img src="../../images/AlzCare_demo.gif" alt="AlzCare Demo" width="100%">
       </a>
-      <p> Click GIF to Watch Demo</strong></p>
+      <p> Click to Watch Demo</strong></p>
     </td>
   </tr>
   <tr>
@@ -28,13 +28,13 @@
       <a href="../../images/icur-poster.png" target="_blank" title="Click to view Poster">
         <img src="../../images/icur-poster.png" alt="ICUR Poster" width="100%">
       </a>
-      <p>📄 View Poster</p>
+      <p></p>
     </td>
     <td width="50%" valign="top" align="center" height="320">
       <a href="../../images/icur-cert.png" target="_blank" title="Click to view Certificate">
         <img src="../../images/icur-cert.png" alt="ICUR Certificate" width="100%">
       </a>
-      <p>🏆 View Certificate</p>
+      <p></p>
     </td>
   </tr>
 </table>
