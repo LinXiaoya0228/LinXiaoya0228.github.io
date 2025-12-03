@@ -4,7 +4,6 @@
 *May 2025 – Dec 2025 | Singapore*
 
 > I developed two core solutions for FDC (Fault Detection & Classification) using scalable cloud computing and computer vision.
-
 <table width="100%">
   <tr>
     <td width="55%">
