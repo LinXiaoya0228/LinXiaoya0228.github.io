@@ -2,7 +2,7 @@
 
 I am an undergraduate researcher at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, specializing in **Data Science and Machine Learning**.
 
-My research interest centers around **Adversarial Robustness & Deepfake Detection** and **Diffusion Model in Image Restoration**.  
+My research interest centers around **Adversarial Robustness & Deepfake Detection** and **Image Restoration**.  
 
 I am an incoming Exchange Student at **EPFL (Switzerland)** for Spring 2026.
 
