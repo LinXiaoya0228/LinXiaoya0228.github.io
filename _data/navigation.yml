@@ -6,15 +6,18 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "Research & Work Experience"
-    url: "/#-research--work-experience" 
+  - title: "Research & Professional Experience"
+    url: "/#-research--professional-experience" 
+    
+  - title: "Academic Projects"
+    url: "/#-academic-projects"
+    
+  - title: "Certifications"
+    url: "/#-certifications"
+    
+  - title: "Tech Stack & Tools"
+    url: "/#-tech-stack--tools"
 
-  - title: "Skills and Technologies"
-    url: "/#-skills--technologies"
-
-  - title: "Research Projects"
-    url: "/#-research-projects"
-
-  - title: "Leadership & Activities"
-    url: "/#-leadership--activities"
+  - title: "Community & Leadership"
+    url: "/#-community--leadership"
 
