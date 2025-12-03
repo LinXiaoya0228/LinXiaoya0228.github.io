@@ -1,64 +1,43 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+# ==============================================================================
+# SITE INFO & PERSONAL DETAILS (User: Lin Xiaoya)
+# ==============================================================================
+title: "Lin Xiaoya (林小雅)"
+name: "Lin Xiaoya (林小雅)"
+description: "Data Scientist & Researcher | Focused on diffusion models, image restoration, and privacy-preserving AI."
+url: "https://LinXiaoya0228.github.io" 
+repository: LinXiaoya0228/LinXiaoya0228.github.io
 
-# Site Settings
-title: "Xiaoya Lin (林小雅)"
-description: "Lin Xiaoya – NTU EEE student focused on diffusion models, image restoration, and privacy-preserving AI."
-repository: "LinXiaoya0228/LinXiaoya0228.github.io"
-# ... (rest of your file) ...
-google_scholar_stats_use_cdn : true
-
-# google analytics
-#google_analytics_id      : G-SWFCX99KQZ
-
-# SEO Related
+# SEO & Integration
+github: [LinXiaoya0228]
 google_site_verification : 8MSFs4X0WOiDEcMKGcVy-tlHxq1TbLnxm9NyComHXkw
 bing_site_verification   : 6FC1E800EEE20055B3668C0D1D06DA38
-#baidu_site_verification  : code-ZxFK3f4pfb
 
-# Site Author
+
+# Author Information (Sidebar Display)
 author:
-  name             : "Xiaoya Lin (林小雅)"
-  avatar           : "images/Profile_image.jpg"
-  bio              : ""
-  location         : "Singapore"
-  employer         :
-  pubmed           : 
-  googlescholar    :
-  email            : "Linx0070@e.ntu.edu.sg"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "LinXiaoya0228"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "xiaoya-lin"
-  dblp             : 
-  orcid            : 
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  name: "Lin Xiaoya (林小雅)"
+  avatar: images/profile.png
+  bio: "Aspiring Researcher in Data Science & Machine Learning"
+  location: "Singapore"
+  email: "linx0070@e.ntu.edu.sg"
+  links:
+    - label: "CV / Resume"
+      url: "LinXiaoya_Resume_Research.pdf"
+      icon: "fas fa-file-pdf"
+    - label: "GitHub"
+      url: "https://github.com/LinXiaoya0228"
+      icon: "fab fa-github"
+    - label: "LinkedIn"
+      url: "https://www.linkedin.com/in/xiaoya-lin/"
+      icon: "fab fa-linkedin"
 
+# Footer Settings
+footer_show_references: false
+
+
+# ==============================================================================
+# TECHNICAL BUILD SETTINGS (Do not change unless necessary)
+# ==============================================================================
 
 # Reading Files
 include:
@@ -97,14 +76,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -127,17 +104,14 @@ defaults:
       layout: default
       author_profile: true
 
-
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
-
+  style: compressed 
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+timezone: Asia/Singapore # Updated to your location
 
 # Plugins
 plugins:
@@ -154,10 +128,9 @@ whitelist:
   - jekyll-feed
   - jemoji
 
-
 # HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
     envs: development
+
