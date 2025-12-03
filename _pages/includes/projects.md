@@ -46,3 +46,4 @@
 * Optimized model to **91% accuracy** using **TensorFlow**, L2 regularization, and Batch Normalization.
 * Delivered visual storytelling insights to 50+ course instructors and peers.
 
+<br>
