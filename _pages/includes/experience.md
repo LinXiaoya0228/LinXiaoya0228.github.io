@@ -108,3 +108,5 @@
 
 * Developed and delivered bilingual lectures on core ML algorithms and SQL
 * Designed course content that contributed **SGD 10,000+ revenue growth**
+
+<br>
