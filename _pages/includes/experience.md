@@ -45,6 +45,87 @@
 
 ---
 
+<table width="100%">
+  <tr>
+    <td width="55%">
+      <h3>1. Scalable Trace Data ETL Pipeline</h3>
+      <p>
+        <strong>The Problem:</strong> Processing multi-month sensor traces caused memory crashes and took hours.<br>
+        <strong>The Solution:</strong> Built a scalable ETL pipeline using <code>AWS SageMaker</code>, <code>PySpark</code>, and <code>Snappy</code> compression.
+      </p>
+      <ul>
+        <li>📉 <strong>90%</strong> Reduction in storage file size.</li>
+        <li>⚡ <strong>97%</strong> Faster data extraction time.</li>
+        <li>🛠 <strong>Tech:</strong> <code>PySpark</code>, <code>AWS S3/Boto3</code>, <code>Parquet + Snappy</code>, <code>ETL Optimization</code>.</li>
+      </ul>
+      <br>
+      <blockquote>
+        "The solution developed addressed scalability issues... resulted in 90% reduction in file size."<br>
+        — <em>Khoo Yong, MTS, GlobalFoundries</em> 
+      </blockquote>
+      <br>
+      <a href="https://github.com/LinXiaoya0228/FDCDataExtractor">
+        <img src="https://img.shields.io/badge/View_Repository-Code-blue?style=for-the-badge&logo=github">
+      </a>
+    </td>
+    <td width="45%">
+      <img src="../../images/FDCDataExtractor_brief.gif" width="100%" alt="Trace Pipeline Demo"/>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="55%">
+      <h3>2. Trace-to-Image Fault Detection (GAF-CNN)</h3>
+      <p>
+        <strong>The Problem:</strong> Existing methods were not suitable for classifying unlabeled equipment parameter traces.<br>
+        <strong>The Solution:</strong> Engineered a novel ensembled method of <strong>Guard-Band + OC-SVM</strong> using Gramian Angular Fields (GAF).
+      </p>
+      <ul>
+        <li>🎯 <strong>95%</strong> Accuracy (Outperforming Guard-Band by 14%).</li>
+        <li>🛡 <strong>Valid</strong> for unlabeled anomalies (Zero False Alarms).</li>
+        <li>🛠 <strong>Tech:</strong> <code>Python (PyTorch)</code>, <code>Gramian Angular Fields (GAF)</code>, <code>CNN</code>, <code>One-Class SVM</code>.</li>
+      </ul>
+      <br>
+      <blockquote>
+        "Her final model achieved a higher accuracy than traditional Guard-Band method by 14%."<br>
+        — <em>Khoo Yong, MTS, GlobalFoundries</em> 
+      </blockquote>
+      <br>
+      <a href="https://github.com/LinXiaoya0228/semiconductor-fault-detection">
+        <img src="https://img.shields.io/badge/View_Repository-Code-blue?style=for-the-badge&logo=github">
+      </a>
+    </td>
+    <td width="45%">
+      <img src="../../images/HybridModel.gif" width="100%" alt="Fault Detection Visualization"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Recommendation Letter
+
+<table width="100%">
+  <tr>
+    <td width="70%" valign="top">
+      <h3>Endorsement from Internship Supervisor</h3>
+      <p>My work was supervised by Mr. Khoo Yong (Member of Technical Staff, GlobalFoundries).</p>
+      <blockquote>
+        "I was able to observe first-hand her ability to combine technical innovation with rigorous research capability... I am confident she will excel in her PhD program and in future Data Science/ Engineering roles."
+      </blockquote>
+    </td>
+    <td width="30%" valign="top" align="center">
+      <a href="../../images/recommendation_letter.png">
+        <img src="../../images/recommendation_letter.png" width="150" style="box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); border-radius: 5px;" alt="Recommendation Letter Preview">
+      </a>
+      <br>
+      <sub>Click to read full letter</sub>
+    </td>
+  </tr>
+</table>
+
 ## A*STAR | Healthcare Data Research Intern
 *Jan 2025 – Apr 2025 | Singapore*
 
