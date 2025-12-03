@@ -20,6 +20,7 @@
       — Khoo Yong, MTS, GlobalFoundries</p>
     </td>
     <td style="border: none; width: 40%; vertical-align: top;">
+      <a href="https://github.com/LinXiaoya0228/FDCDataExtractor" target="_blank" title="Click to Corresponding Repo">
       <img src="../../images/FDCDataExtractor_brief.gif" alt="Trace Pipeline" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     </td>
   </tr>
@@ -38,6 +39,7 @@
       </ul>
     </td>
     <td style="border: none; width: 40%; vertical-align: top;">
+      <a href="https://github.com/LinXiaoya0228/semiconductor-fault-detection" target="_blank" title="Click to Corresponding Repo">
       <img src="../../images/HybridModel.gif" alt="Fault Detection" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     </td>
   </tr>
