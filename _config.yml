@@ -12,6 +12,19 @@ github: [LinXiaoya0228]
 google_site_verification : 8MSFs4X0WOiDEcMKGcVy-tlHxq1TbLnxm9NyComHXkw
 bing_site_verification   : 6FC1E800EEE20055B3668C0D1D06DA38
 
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: default
+      author_profile: true   
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true   
 
 # Author Information (Sidebar Display)
 
