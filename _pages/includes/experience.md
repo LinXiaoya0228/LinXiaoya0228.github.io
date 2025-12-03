@@ -1,4 +1,4 @@
-# 🚀 Professional Experience
+# 🚀 Research & Professional Experience
 
 ## GlobalFoundries | Data Scientist Intern
 *May 2025 – Dec 2025 | Singapore*
