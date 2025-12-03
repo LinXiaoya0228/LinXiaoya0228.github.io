@@ -7,7 +7,7 @@ main:
     url: "/#-education"
 
   - title: "Research & Work Experience"
-    url: "/#-research--work-experience"
+    url: "/#-research--work-experience" 
 
   - title: "Skills and Technologies"
     url: "/#-skills--technologies"
