@@ -15,7 +15,3 @@ You can find my CV here: [LinXiaoya's Curriculum Vitae](../../assets/LinXiaoya_C
   <a href="images/wechat.png" target="_blank">WeChat</a>
 </p>
 
-## 🔥 Recent News
-* **Dec 2025:** Completed 8-month Data Scientist internship at **GlobalFoundries** (Singapore).
-* **Nov 2025:** Accepted into **EPFL Exchange Program** (Switzerland) for Spring 2026.
-* **May 2025:** Presented "AlzCare Smart Watch" research at **ICUR 2025**.
