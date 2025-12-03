@@ -5,46 +5,6 @@
 
 > I developed two core solutions for FDC (Fault Detection & Classification) using scalable cloud computing and computer vision.
 
-### 1. Scalable Trace Data ETL Pipeline
-<table style="border: none; border-collapse: collapse; width: 100%;">
-  <tr style="border: none;">
-    <td style="border: none; width: 60%; vertical-align: top; padding-right: 20px;">
-      <p><strong>The Problem:</strong> Processing multi-month sensor traces caused memory crashes and took hours.<br>
-      <strong>The Solution:</strong> Built a scalable ETL pipeline using <code>AWS SageMaker</code>, <code>PySpark</code>, and <code>Snappy</code> compression.</p>
-      <ul>
-        <li>📉 <strong>90%</strong> Reduction in storage file size.</li>
-        <li>⚡ <strong>97%</strong> Faster data extraction time.</li>
-        <li>🛠 <strong>Tech:</strong> PySpark, AWS S3/Boto3, Parquet.</li>
-      </ul>
-      <p><em>"The solution developed addressed scalability issues... resulted in 90% reduction in file size."</em><br>
-      — Khoo Yong, MTS, GlobalFoundries</p>
-    </td>
-    <td style="border: none; width: 40%; vertical-align: top;">
-      <img src="../../images/FDCDataExtractor_brief.gif" alt="Trace Pipeline" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    </td>
-  </tr>
-</table>
-
-### 2. Trace-to-Image Fault Detection (GAF-CNN)
-<table style="border: none; border-collapse: collapse; width: 100%; margin-top: 20px;">
-  <tr style="border: none;">
-    <td style="border: none; width: 60%; vertical-align: top; padding-right: 20px;">
-      <p><strong>The Problem:</strong> Existing methods were not suitable for classifying unlabeled equipment parameter traces.<br>
-      <strong>The Solution:</strong> Engineered a novel ensembled method of <strong>Guard-Band + OC-SVM</strong> using Gramian Angular Fields (GAF).</p>
-      <ul>
-        <li>🎯 <strong>95%</strong> Accuracy (Outperforming traditional SPC method by 14%).</li>
-        <li>🛡 <strong>Zero False Alarms</strong> on unlabeled anomalies.</li>
-        <li>🛠 <strong>Tech:</strong> PyTorch, GAF Imaging, CNN, One-Class SVM.</li>
-      </ul>
-    </td>
-    <td style="border: none; width: 40%; vertical-align: top;">
-      <img src="../../images/HybridModel.gif" alt="Fault Detection" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    </td>
-  </tr>
-</table>
-
----
-
 <table width="100%">
   <tr>
     <td width="55%">
@@ -58,12 +18,10 @@
         <li>⚡ <strong>97%</strong> Faster data extraction time.</li>
         <li>🛠 <strong>Tech:</strong> <code>PySpark</code>, <code>AWS S3/Boto3</code>, <code>Parquet + Snappy</code>, <code>ETL Optimization</code>.</li>
       </ul>
-      <br>
       <blockquote>
         "The solution developed addressed scalability issues... resulted in 90% reduction in file size."<br>
         — <em>Khoo Yong, MTS, GlobalFoundries</em> 
       </blockquote>
-      <br>
       <a href="https://github.com/LinXiaoya0228/FDCDataExtractor">
         <img src="https://img.shields.io/badge/View_Repository-Code-blue?style=for-the-badge&logo=github">
       </a>
@@ -87,12 +45,10 @@
         <li>🛡 <strong>Valid</strong> for unlabeled anomalies (Zero False Alarms).</li>
         <li>🛠 <strong>Tech:</strong> <code>Python (PyTorch)</code>, <code>Gramian Angular Fields (GAF)</code>, <code>CNN</code>, <code>One-Class SVM</code>.</li>
       </ul>
-      <br>
       <blockquote>
         "Her final model achieved a higher accuracy than traditional Guard-Band method by 14%."<br>
         — <em>Khoo Yong, MTS, GlobalFoundries</em> 
       </blockquote>
-      <br>
       <a href="https://github.com/LinXiaoya0228/semiconductor-fault-detection">
         <img src="https://img.shields.io/badge/View_Repository-Code-blue?style=for-the-badge&logo=github">
       </a>
