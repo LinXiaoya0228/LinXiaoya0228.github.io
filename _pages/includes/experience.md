@@ -46,17 +46,17 @@
   <tr style="border: none;">
     <td style="border: none; width: 60%; vertical-align: top; padding-right: 20px;">
       <p><strong>The Problem:</strong> Processing multi-month sensor traces caused memory crashes and took hours.<br>
-      [cite_start]<strong>The Solution:</strong> Built a scalable ETL pipeline using <code>AWS SageMaker</code>, <code>PySpark</code>, and <code>Snappy</code> compression[cite: 38].</p>
+      <strong>The Solution:</strong> Built a scalable ETL pipeline using <code>AWS SageMaker</code>, <code>PySpark</code>, and <code>Snappy</code> compression.</p>
       <ul>
-        [cite_start]<li>📉 <strong>90%</strong> Reduction in storage file size[cite: 38].</li>
-        [cite_start]<li>⚡ <strong>97%</strong> Faster data extraction time[cite: 38].</li>
+        <li>📉 <strong>90%</strong> Reduction in storage file size.</li>
+        <li>⚡ <strong>97%</strong> Faster data extraction time.</li>
         <li>🛠 <strong>Tech:</strong> PySpark, AWS S3/Boto3, Parquet.</li>
       </ul>
       <p><em>"The solution developed addressed scalability issues... resulted in 90% reduction in file size."</em><br>
       — Khoo Yong, MTS, GlobalFoundries</p>
     </td>
     <td style="border: none; width: 40%; vertical-align: top;">
-      <img src="images/trace-pipeline.gif" alt="Trace Pipeline" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <img src="images/FDCDataExtractor_brief.gif" alt="Trace Pipeline" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     </td>
   </tr>
 </table>
@@ -66,17 +66,17 @@
   <tr style="border: none;">
     <td style="border: none; width: 60%; vertical-align: top; padding-right: 20px;">
       <p><strong>The Problem:</strong> Existing methods were not suitable for classifying unlabeled equipment parameter traces.<br>
-      [cite_start]<strong>The Solution:</strong> Engineered a novel ensembled method of <strong>Guard-Band + OC-SVM</strong> using Gramian Angular Fields (GAF)[cite: 39, 41].</p>
+      <strong>The Solution:</strong> Engineered a novel ensembled method of <strong>Guard-Band + OC-SVM</strong> using Gramian Angular Fields (GAF).</p>
       <ul>
-        [cite_start]<li>🎯 <strong>95%</strong> Accuracy (Outperforming Guard-Band by 14%)[cite: 41].</li>
-        [cite_start]<li>🛡 <strong>Zero False Alarms</strong> on unlabeled anomalies[cite: 41].</li>
+        <li>🎯 <strong>95%</strong> Accuracy (Outperforming Guard-Band by 14%).</li>
+        <li>🛡 <strong>Zero False Alarms</strong> on unlabeled anomalies.</li>
         <li>🛠 <strong>Tech:</strong> PyTorch, GAF Imaging, CNN, One-Class SVM.</li>
       </ul>
       <p><em>"Her final model achieved a higher accuracy than traditional Guard-Band method by 14%."</em><br>
       — Khoo Yong, MTS, GlobalFoundries</p>
     </td>
     <td style="border: none; width: 40%; vertical-align: top;">
-      <img src="images/fault-detection.gif" alt="Fault Detection" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <img src="images/HybridModel.gif" alt="Fault Detection" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     </td>
   </tr>
 </table>
