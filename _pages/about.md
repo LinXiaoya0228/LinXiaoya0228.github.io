@@ -15,8 +15,11 @@ redirect_from:
 
 {% include_relative includes/experience.md %}
 
-{% include_relative includes/skills.md %}
-
 {% include_relative includes/projects.md %}
+
+
+{% include_relative includes/cert.md %}
+
+{% include_relative includes/skills.md %}
 
 {% include_relative includes/activities.md %}
