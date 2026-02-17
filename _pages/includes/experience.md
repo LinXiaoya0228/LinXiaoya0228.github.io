@@ -62,7 +62,7 @@
 <table width="100%">
   <tr>
     <td width="70%" valign="top">
-      <h3>🏆 Internship Endorsement</h3>
+      <h3>🏆 Internship Endorsement - Recommendation Letter</h3>
       <p><strong>Supervisor:</strong> Mr. Khoo Yong (Member of Technical Staff, GlobalFoundries)</p>
       <blockquote>
         "I was able to observe first-hand her ability to combine technical innovation with rigorous research capability... I am confident she will excel in her PhD program and in future Data Science/ Engineering roles."
