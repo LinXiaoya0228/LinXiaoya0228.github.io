@@ -2,9 +2,10 @@
 
 I am an undergraduate researcher at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, specializing in **Data Science and Machine Learning**.  
 
-NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient  
 
-CGPA: **4.89** (Highest Distinction Honour) | **Dean's List** AY 23-24, 24-25 (Top 5%)  
+NTU President Research Scholar \| NTU Science & Engineering Scholarship Recipient
+
+CGPA: **4.89** (Highest Distinction Honour) \| **Dean's List** AY 23-24, 24-25 (Top 5%)
 
 My research interest centers around **Adversarial Robustness & Deepfake Detection** and **Image Restoration**
 
