@@ -1,6 +1,6 @@
 # 🔬 Academic Projects
 
-### 1. AlzCare: AI-Powered Dementia Care Platform
+## 1. AlzCare: AI-Powered Dementia Care Platform
 
 
 <table style="border: none; border-collapse: collapse; width: 100%;">
@@ -40,7 +40,7 @@
   </tr>
 </table>
 
-### 2. Hotel Booking Trends & Cancellation Forecast
+## 2. Hotel Booking Trends & Cancellation Forecast
 **Course Project Lead**
 * Led a 4-member team to analyze booking behavior and predict cancellations.
 * Optimized model to **91% accuracy** using **TensorFlow**, L2 regularization, and Batch Normalization.
