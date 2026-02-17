@@ -107,7 +107,7 @@
       </ul>
       <br>
       <a href="#">
-        <img src="https://img.shields.io/badge/View_Full_Case_Study-Project-orange?style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/View_Repository-Project-orange?style=for-the-badge&logo=github">
       </a>
     </td>
     <td width="40%" align="center">
@@ -139,3 +139,5 @@
 
 * Developed and delivered bilingual lectures on core ML algorithms and SQL.
 * Designed course content that contributed **SGD 10,000+ revenue growth**.
+
+<br>
