@@ -1,14 +1,14 @@
 # 👋 Hi, I’m Lin Xiaoya (林小雅)
 
-I am an undergraduate researcher at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, specializing in **Data Science and Machine Learning**.
+I am an undergraduate researcher at [Nanyang Technological University](https://www.ntu.edu.sg/), Singapore, specializing in **Data Science and Machine Learning**.  
 
-My research interest centers around **Adversarial Robustness & Deepfake Detection** and **Image Restoration**.  
+NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient  
 
-**Nanyang Technological University (NTU)** | CGPA: **4.89** (Highest Distinction Honour) | **Dean's List** AY 23-24, 24-25 (Top 5%)  
+CGPA: **4.89** (Highest Distinction Honour) | **Dean's List** AY 23-24, 24-25 (Top 5%)  
 
-*NTU President Research Scholar | NTU Science & Engineering Scholarship Recipient*
+My research interest centers around **Adversarial Robustness & Deepfake Detection** and **Image Restoration**
 
-I am an incoming Exchange Student at **EPFL (Switzerland)** for Spring 2026.
+I am an Exchange Student at **EPFL (Switzerland)** for Spring 2026.
 
 You can find my CV here: [LinXiaoya's Curriculum Vitae](../../assets/LinXiaoya_Resume_Research.pdf).
 
@@ -18,3 +18,4 @@ You can find my CV here: [LinXiaoya's Curriculum Vitae](../../assets/LinXiaoya_R
   <a href="https://www.linkedin.com/in/xiaoya-lin/">LinkedIn</a> /
   <a href="images/wechat.png" target="_blank">WeChat</a>
 </p>
+
